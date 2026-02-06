@@ -1,0 +1,129 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Maven ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.ids
+*.orig
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+*.code-workspace
+
+### Eclipse ###
+.c9/
+.launch
+
+### Sublime Text ###
+*.sublime-project
+*.sublime-workspace
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### Windows ###
+Desktop.ini
+$RECYCLE.BIN/
+
+### Linux ###
+.directory
+
+### Logs ###
+*.log
+logs/
+*.logs
+
+### JVM ###
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+### Spring Boot ###
+application-*.properties
+application-*.yml
+application-local.properties
+application-dev.properties
+application-test.properties
+application-prod.properties
+
+### Environment variables ###
+.env
+.env.local
+.env.*.local
+
+### Database ###
+*.db
+*.sqlite
+*.h2.db
+
+### Temp files ###
+*.tmp
+*.temp
+*.bak
+~*
+*.swp
+*.swo
+
+### Coverage reports ###
+coverage/
+.coverage
+.jacoco/
+
+### SonarQube ###
+.sonarqube/
+.sonar/
+
+### Node modules (if frontend included) ###
+node_modules/
+npm-debug.log
+yarn-error.log
+
